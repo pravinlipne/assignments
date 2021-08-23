@@ -7,7 +7,7 @@ complete the implementation so that all the junits get's passed
 
 # Assignment 2
 
-There is a need co create library management system that is going to be used by library user/admin
+There is a need to create library management system that is going to be used by library user/admin
 
 Ask is to provide below implementation
 
