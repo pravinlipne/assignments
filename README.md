@@ -13,7 +13,7 @@ Ask is to provide below implementation
 
 1. Provide Rest endpoint to add new book.
 2. Provide Rest endpoint to fech all books in libray.
-3. Provide Rest endpoint to fecth book contins specific name.
+3. Provide Rest endpoint to fetch book contains specific name.
 
 Create spring boot project and provide different layer implementation like controller, service, Exception handling
 Also please add junit test case for each case. you can use appropriate collection to show correct data.
