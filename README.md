@@ -16,9 +16,8 @@ Ask is to provide below implementation
 3. Provide Rest endpoint to fecth book contins specific name.
 
 Create spring boot project and provide different layer implementation like controller, service, Exception handling
-Also plese add junit test case for each case. you can use appropriate collection to show correct data.
+Also please add junit test case for each case. you can use appropriate collection to show correct data.
 Focus is not on databse. 
-
 
 Upon completing both assignemtns please upload that on your personal git account and share the link.
 
