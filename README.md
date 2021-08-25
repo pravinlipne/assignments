@@ -1,11 +1,7 @@
-# Assignment 1
-
-1. Clone Project in our IDE 
-2. Furniture.java,FurnitureOrder.java,FurnitureOrderInterface.java  implementation is incomplete.
- Complete the implementation so that all the junits get's passed
 
 
-# Assignment 2
+
+# Assignment 
 
 There is a need to create library management system that is going to be used by library user/admin
 
